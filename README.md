@@ -13,7 +13,7 @@ I'm building practical skills in technology, cybersecurity, Linux, networking, a
 - 🐧 Working with Linux, networking fundamentals, and virtualization
 - 🛠️ Interested in automation and practical tools that solve real problems
 - 📚 Focused on documenting projects clearly and learning in public
-What you'll find here
+  <h2>What you'll find here</h2>
 - Hands-on labs: documented experiments, configurations, and lessons learned
 - Automation: small tools and scripts that reduce repetitive work
 - Learning notes: clear explanations of technical concepts
