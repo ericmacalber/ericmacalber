@@ -7,13 +7,13 @@
   <a href="https://github.com/ericmacalber">GitHub Profile</a>
 </p>
 
-About me
+<h2>About me</h2>
 I'm building practical skills in technology, cybersecurity, Linux, networking, and automation. I learn by experimenting, documenting what I discover, and turning concepts into projects that other people can understand and reproduce.
 - 🔐 Exploring defensive security, security monitoring, and safe lab environments
 - 🐧 Working with Linux, networking fundamentals, and virtualization
 - 🛠️ Interested in automation and practical tools that solve real problems
 - 📚 Focused on documenting projects clearly and learning in public
-  <h2>What you'll find here</h2>
+  <h3>What you'll find here</h3>
 - Hands-on labs: documented experiments, configurations, and lessons learned
 - Automation: small tools and scripts that reduce repetitive work
 - Learning notes: clear explanations of technical concepts
