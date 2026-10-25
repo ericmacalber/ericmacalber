@@ -25,5 +25,4 @@ Current focus
 4. Strengthen core networking and security fundamentals.
 Let's connect
 I'm open to learning from other developers, collaborating on beginner-friendly projects, and constructive feedback.
-This profile describes my learning direction. Project-specific READMEs are the source of truth for what is implemented and tested..
 
